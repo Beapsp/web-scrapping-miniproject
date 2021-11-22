@@ -21,9 +21,10 @@ ESTRUCTURA DEL PROYECTO:
     - Una carpeta única que contiene:
         - el csv final con el dataframe de los valores obtenidos de la web
         - 5 imágenes formato .jpg con los gráficos obtenidos en la visualización para la comprobación de hipótesis.
+        - 2 imágenes formato .jpg como encabezado del archivo Readme y del archivo Markdown
         - un archivo .exe necesario para conseguir el driver
         - un archivo jupyter notebook "scrapping" con todo el código utlizado para el scrapeo, limpieza y visualización
-        - un archivo jupyter notebook "" con las imágenes importadas en markdown.
+        - un archivo jupyter notebook "markdown" con la explicación del proyecto incluyendo las imágenes importadas.
         
 CONCLUSIÓN FINAL:
 Mediante los gráficos de visualización hemos podido observar las siguientes conclusiones:
